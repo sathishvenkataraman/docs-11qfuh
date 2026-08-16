@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-p3gefv.goib138.site/sitemap.xml
